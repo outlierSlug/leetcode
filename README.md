@@ -8,7 +8,8 @@
 |---|---------|---------|----------|------------|----------------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Hashing | Java | Easy | 2026-07-17 | [Solution](solutions/arrays-hashing/0001-two-sum/) |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Two Pointers | Java | Medium | 2026-07-17 | [Solution](solutions/two-pointers/0167-two-sum-ii/) |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Two Pointers | Java | Easy | 2026-07-18 | [Solution](solutions/two-pointers/0125-valid-palindrome/)
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Two Pointers | Java | Easy | 2026-07-18 | [Solution](solutions/two-pointers/0125-valid-palindrome/) |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | Two Pointers | Java | Easy | 2026-07-20 | [Solution](solutions/two-pointers/0680-valid-palindrome-ii/) |
 
 ## Patterns
 

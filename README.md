@@ -11,6 +11,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Two Pointers | Java | Easy | 2026-07-18 | [Solution](solutions/two-pointers/0125-valid-palindrome/) |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | Two Pointers | Java | Easy | 2026-07-20 | [Solution](solutions/two-pointers/0680-valid-palindrome-ii/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Hashing | Java | Easy | 2026-07-20 | [Solution](solutions/arrays-hashing/0383-ransom-note/) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | Hashing | Java | Easy | 2026-07-21 | [Solution](solutions/arrays-hashing/0205-isomorphic-strings/) |
 
 ## Patterns
 

@@ -13,6 +13,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Hashing | Java | Easy | 2026-07-20 | [Solution](solutions/arrays-hashing/0383-ransom-note/) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | Hashing | Java | Easy | 2026-07-21 | [Solution](solutions/arrays-hashing/0205-isomorphic-strings/) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Linked List | Java | Easy | 2026-07-21 | [Solution](solutions/linked-list/0021-merge-two-sorted-lists/) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List | Java | Easy | 2026-07-22 | [Solution](solutions/linked-list/0206-reverse-linked-list/) |
 
 ## Patterns
 

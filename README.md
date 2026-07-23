@@ -16,6 +16,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List | Java | Easy | 2026-07-22 | [Solution](solutions/linked-list/0206-reverse-linked-list/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Hashing | Java | Easy | 2026-07-22 | [Solution](solutions/arrays-hashing/0242-valid-anagram/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Two Pointers | Java | Easy | 2026-07-23 | [Solution](solutions/two-pointers/0088-merge-sorted-array/) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Linked List | Java | Medium | 2026-07-23 | [Solution](solutions/linked-list/0002-add-two-numbers/) |
 
 ## Patterns
 

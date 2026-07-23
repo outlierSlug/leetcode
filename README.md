@@ -15,6 +15,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Linked List | Java | Easy | 2026-07-21 | [Solution](solutions/linked-list/0021-merge-two-sorted-lists/) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Linked List | Java | Easy | 2026-07-22 | [Solution](solutions/linked-list/0206-reverse-linked-list/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Hashing | Java | Easy | 2026-07-22 | [Solution](solutions/arrays-hashing/0242-valid-anagram/) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Two Pointers | Java | Easy | 2026-07-23 | [Solution](solutions/two-pointers/0088-merge-sorted-array/) |
 
 ## Patterns
 

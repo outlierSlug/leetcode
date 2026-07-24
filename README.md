@@ -19,6 +19,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Linked List | Java | Medium | 2026-07-23 | [Solution](solutions/linked-list/0002-add-two-numbers/) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | Two Pointers | Java | Easy | 2026-07-24 | [Solution](solutions/two-pointers/0392-is-subsequence/) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Two Pointers | Java | Easy | 2026-07-24 | [Solution](solutions/two-pointers/0027-remove-element/) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Two Pointers | Java | Easy | 2026-07-24 | [Solution](solutions/linked-list/0141-linked-list-cycle/) |
 
 ## Patterns
 

@@ -23,6 +23,7 @@
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List | Java | Medium | 2026-07-24 | [Solution](solutions/linked-list/0142-linked-list-cycle-ii/) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Hashing | Java | Easy | 2026-07-25 | [Solution](solutions/arrays-hashing/0290-word-pattern/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Trees | Java | Easy | 2026-07-25 | [Solution](solutions/trees/0104-maximum-depth-of-binary-tree/) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | Trees | Java | Easy | 2026-07-25 | [Solution](solutions/trees/0100-same-tree/) |
 
 ## Patterns
 

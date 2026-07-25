@@ -21,6 +21,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Two Pointers | Java | Easy | 2026-07-24 | [Solution](solutions/two-pointers/0027-remove-element/) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Linked List | Java | Easy | 2026-07-24 | [Solution](solutions/linked-list/0141-linked-list-cycle/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Linked List | Java | Medium | 2026-07-24 | [Solution](solutions/linked-list/0142-linked-list-cycle-ii/) |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Hashing | Java | Easy | 2026-07-25 | [Solution](solutions/arrays-hashing/0290-word-pattern/) |
 
 ## Patterns
 

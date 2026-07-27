@@ -26,6 +26,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | Trees | Java | Easy | 2026-07-25 | [Solution](solutions/trees/0100-same-tree/) |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Two Pointers | Java | Easy | 2026-07-27 | [Solution](solutions/two-pointers/0026-remove-duplicates-from-sorted-array/) |
 | 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Two Pointers | Java | Medium | 2026-07-27 | [Solution](solutions/two-pointers/0080-remove-duplicates-from-sorted-array-ii/) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Trees | Java | Easy | 2026-07-27 | [Solution](solutions/trees/0226-invert-binary-tree/) |
 
 ## Patterns
 

@@ -24,6 +24,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Hashing | Java | Easy | 2026-07-25 | [Solution](solutions/arrays-hashing/0290-word-pattern/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Trees | Java | Easy | 2026-07-25 | [Solution](solutions/trees/0104-maximum-depth-of-binary-tree/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | Trees | Java | Easy | 2026-07-25 | [Solution](solutions/trees/0100-same-tree/) |
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Two Pointers | Java | Easy | 2026-07-27 | [Solution](solutions/two-pointers/0026-remove-duplicates-from-sorted-array/) |
 
 ## Patterns
 

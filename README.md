@@ -28,7 +28,8 @@
 | 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Two Pointers | Java | Medium | 2026-07-27 | [Solution](solutions/two-pointers/0080-remove-duplicates-from-sorted-array-ii/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Trees | Java | Easy | 2026-07-27 | [Solution](solutions/trees/0226-invert-binary-tree/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Hashing | Java, Python | Easy | 2026-07-28 | [Solution](solutions/arrays-hashing/0169-majority-element/) |
-| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | Hashing | Java | Easy | 2026-07-30 | [Solution](solutions/arrays-hashing/0013-roman-to-integer/) |
+| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | Math | Java | Easy | 2026-07-30 | [Solution](solutions/math/0013-roman-to-integer/) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | Math | Java | Medium | 2026-07-30 | [Solution](solutions/math/0012-integer-to-roman/) |
 
 ## Patterns
 

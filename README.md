@@ -42,6 +42,7 @@
 - `heap-priority-queue/`
 - `backtracking/`
 - `graphs/`
+- `math/`
 - `dp-1d/`
 - `dp-2d/`
 - `greedy/`

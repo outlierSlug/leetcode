@@ -1,3 +1,12 @@
+<!--
+number: 0001
+title: Two Sum
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java
+slug: two-sum
+last_reviewed: 2026-07-17
+-->
 # Two Sum
 [Problem Description](https://leetcode.com/problems/two-sum/description/)
 

@@ -1,3 +1,12 @@
+<!--
+number: 0012
+title: Integer to Roman
+pattern: math
+difficulty: Medium
+languages: Java
+slug: integer-to-roman
+last_reviewed: 2026-07-30
+-->
 # Integer to Roman
 [Problem Description](https://leetcode.com/problems/integer-to-roman/description/)
 

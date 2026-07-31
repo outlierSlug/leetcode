@@ -1,3 +1,12 @@
+<!--
+number: 0167
+title: Two Sum II
+pattern: two-pointers
+difficulty: Medium
+languages: Java
+slug: two-sum-ii-input-array-is-sorted
+last_reviewed: 2026-07-17
+-->
 # Two Sum II
 [Problem Description](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 

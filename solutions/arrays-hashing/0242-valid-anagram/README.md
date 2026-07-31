@@ -1,3 +1,12 @@
+<!--
+number: 0242
+title: Valid Anagram
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java
+slug: valid-anagram
+last_reviewed: 2026-07-22
+-->
 # Valid Anagram
 [Problem Description](https://leetcode.com/problems/valid-anagram/description/)
 

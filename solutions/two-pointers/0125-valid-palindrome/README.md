@@ -1,3 +1,12 @@
+<!--
+number: 0125
+title: Valid Palindrome
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: valid-palindrome
+last_reviewed: 2026-07-18
+-->
 # Valid Palindrome
 [Problem Description](https://leetcode.com/problems/valid-palindrome/description/)
 

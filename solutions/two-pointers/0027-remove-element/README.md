@@ -1,3 +1,12 @@
+<!--
+number: 0027
+title: Remove Element
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: remove-element
+last_reviewed: 2026-07-24
+-->
 # Remove Element
 [Problem Description](https://leetcode.com/problems/remove-element/description/)
 

@@ -1,0 +1,82 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "New LeetCode Problem",
+      "type": "shell",
+      "command": "python3",
+      "args": [
+        "scripts/new_problem.py",
+        "--num",
+        "${input:problemNum}",
+        "--title",
+        "${input:problemTitle}",
+        "--pattern",
+        "${input:problemPattern}",
+        "--difficulty",
+        "${input:problemDifficulty}",
+        "--lang",
+        "${input:problemLang}"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "problemNum",
+      "type": "promptString",
+      "description": "LeetCode Problem Number"
+    },
+    {
+      "id": "problemTitle",
+      "type": "promptString",
+      "description": "Problem Title"
+    },
+    {
+      "id": "problemPattern",
+      "type": "pickString",
+      "description": "Pattern",
+      "options": [
+        "arrays-hashing",
+        "two-pointers",
+        "sliding-window",
+        "stack",
+        "binary-search",
+        "linked-list",
+        "trees",
+        "heap-priority-queue",
+        "backtracking",
+        "graphs",
+        "math",
+        "dp-1d",
+        "dp-2d",
+        "greedy",
+        "intervals",
+        "trie",
+        "union-find",
+        "bit-manipulation"
+      ]
+    },
+    {
+      "id": "problemDifficulty",
+      "type": "pickString",
+      "description": "Difficulty",
+      "options": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    {
+      "id": "problemLang",
+      "type": "promptString",
+      "description": "Language(s), comma-separated (Java, Python, C++, TypeScript)",
+      "default": "Java"
+    }
+  ]
+}

@@ -1,3 +1,12 @@
+<!--
+number: 0141
+title: Linked List Cycle
+pattern: linked-list
+difficulty: Easy
+languages: Java
+slug: linked-list-cycle
+last_reviewed: 2026-07-24
+-->
 # Linked List Cycle
 [Problem Description](https://leetcode.com/problems/linked-list-cycle/description/)
 

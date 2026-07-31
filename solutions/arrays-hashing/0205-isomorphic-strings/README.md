@@ -1,3 +1,12 @@
+<!--
+number: 0205
+title: Isomorphic Strings
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java
+slug: isomorphic-strings
+last_reviewed: 2026-07-21
+-->
 # Isomorphic Strings
 [Problem Description](https://leetcode.com/problems/isomorphic-strings/description/)
 

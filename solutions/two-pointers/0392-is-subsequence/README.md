@@ -1,3 +1,12 @@
+<!--
+number: 0392
+title: Is Subsequence
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: is-subsequence
+last_reviewed: 2026-07-24
+-->
 # Is Subsequence
 [Problem Description](https://leetcode.com/problems/is-subsequence/description/)
 

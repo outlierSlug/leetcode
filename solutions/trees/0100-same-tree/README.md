@@ -1,3 +1,12 @@
+<!--
+number: 0100
+title: Same Tree
+pattern: trees
+difficulty: Easy
+languages: Java
+slug: same-tree
+last_reviewed: 2026-07-25
+-->
 # Same Tree
 [Problem Description](https://leetcode.com/problems/same-tree/description/)
 

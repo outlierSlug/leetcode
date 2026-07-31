@@ -1,3 +1,12 @@
+<!--
+number: 0206
+title: Reverse Linked List
+pattern: linked-list
+difficulty: Easy
+languages: Java
+slug: reverse-linked-list
+last_reviewed: 2026-07-22
+-->
 # Reverse Linked List
 [Problem Description](https://leetcode.com/problems/reverse-linked-list/description/)
 

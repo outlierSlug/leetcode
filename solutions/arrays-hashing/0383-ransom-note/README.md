@@ -1,3 +1,12 @@
+<!--
+number: 0383
+title: Ransom Note
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java
+slug: ransom-note
+last_reviewed: 2026-07-20
+-->
 # Ransom Note
 [Problem Description](https://leetcode.com/problems/ransom-note/description/)
 

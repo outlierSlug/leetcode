@@ -1,3 +1,12 @@
+<!--
+number: 0169
+title: Majority Element
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java, Python
+slug: majority-element
+last_reviewed: 2026-07-28
+-->
 # Majority Element
 [Problem Description](https://leetcode.com/problems/majority-element/description/)
 

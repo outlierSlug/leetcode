@@ -1,3 +1,12 @@
+<!--
+number: 0002
+title: Add Two Numbers
+pattern: linked-list
+difficulty: Medium
+languages: Java
+slug: add-two-numbers
+last_reviewed: 2026-07-23
+-->
 # Add Two Numbers
 [Problem Description](https://leetcode.com/problems/add-two-numbers/description/)
 

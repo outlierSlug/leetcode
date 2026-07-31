@@ -1,3 +1,12 @@
+<!--
+number: 0290
+title: Word Pattern
+pattern: arrays-hashing
+difficulty: Easy
+languages: Java
+slug: word-pattern
+last_reviewed: 2026-07-25
+-->
 # Word Pattern
 [Problem Description](https://leetcode.com/problems/word-pattern/description/)
 

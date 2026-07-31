@@ -1,3 +1,12 @@
+<!--
+number: 0680
+title: Valid Palindrome II
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: valid-palindrome-ii
+last_reviewed: 2026-07-20
+-->
 # Valid Palindrome II
 [Problem Description](https://leetcode.com/problems/valid-palindrome-ii/description/)
 

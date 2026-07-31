@@ -1,3 +1,12 @@
+<!--
+number: 0226
+title: Invert Binary Tree
+pattern: trees
+difficulty: Easy
+languages: Java
+slug: invert-binary-tree
+last_reviewed: 2026-07-27
+-->
 # Invert Binary Tree
 [Problem Description](https://leetcode.com/problems/invert-binary-tree/description/)
 

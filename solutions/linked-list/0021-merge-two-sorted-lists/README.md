@@ -1,3 +1,12 @@
+<!--
+number: 0021
+title: Merge Two Sorted Lists
+pattern: linked-list
+difficulty: Easy
+languages: Java
+slug: merge-two-sorted-lists
+last_reviewed: 2026-07-21
+-->
 # Merge Two Sorted Lists
 [Problem Description](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 

@@ -1,3 +1,12 @@
+<!--
+number: 0104
+title: Maximum Depth of Binary Tree
+pattern: trees
+difficulty: Easy
+languages: Java
+slug: maximum-depth-of-binary-tree
+last_reviewed: 2026-07-25
+-->
 # Maximum Depth of Binary Tree
 [Problem Description](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 

@@ -1,3 +1,12 @@
+<!--
+number: 0088
+title: Merge Sorted Array
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: merge-sorted-array
+last_reviewed: 2026-07-23
+-->
 # Merge Sorted Array
 [Problem Description](https://leetcode.com/problems/merge-sorted-array/description/)
 

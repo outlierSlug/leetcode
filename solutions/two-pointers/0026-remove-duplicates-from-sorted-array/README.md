@@ -1,3 +1,12 @@
+<!--
+number: 0026
+title: Remove Duplicates From Sorted Array
+pattern: two-pointers
+difficulty: Easy
+languages: Java
+slug: remove-duplicates-from-sorted-array
+last_reviewed: 2026-07-27
+-->
 # Remove Duplicates From Sorted Array
 [Problem Descriptions](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 

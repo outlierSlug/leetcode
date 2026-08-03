@@ -33,6 +33,7 @@
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | Math | Java | Easy | 2026-07-30 | [Solution](solutions/math/0013-roman-to-integer/) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Two Pointers | Java | Medium | 2026-07-31 | [Solution](solutions/two-pointers/0015-3sum/) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Two Pointers | Java | Medium | 2026-08-02 | [Solution](solutions/two-pointers/0011-container-with-most-water/) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Sliding Window | Java | Medium | 2026-08-03 | [Solution](solutions/sliding-window/0003-longest-substring-without-repeating-characters/) |
 <!-- INDEX:END -->
 
 ## Patterns

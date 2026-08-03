@@ -32,6 +32,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | Math | Java | Medium | 2026-07-30 | [Solution](solutions/math/0012-integer-to-roman/) |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | Math | Java | Easy | 2026-07-30 | [Solution](solutions/math/0013-roman-to-integer/) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Two Pointers | Java | Medium | 2026-07-31 | [Solution](solutions/two-pointers/0015-3sum/) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Two Pointers | Java | Medium | 2026-08-02 | [Solution](solutions/two-pointers/0011-container-with-most-water/) |
 <!-- INDEX:END -->
 
 ## Patterns

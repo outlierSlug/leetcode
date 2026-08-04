@@ -35,6 +35,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Two Pointers | Java | Medium | 2026-08-02 | [Solution](solutions/two-pointers/0011-container-with-most-water/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Sliding Window | Java | Medium | 2026-08-03 | [Solution](solutions/sliding-window/0003-longest-substring-without-repeating-characters/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Sliding Window | Java | Medium | 2026-08-03 | [Solution](solutions/sliding-window/0209-minimum-size-subarray-sum/) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Sliding Window | Java | Medium | 2026-08-04 | [Solution](solutions/sliding-window/0424-longest-repeating-character-replacement/) |
 <!-- INDEX:END -->
 
 ## Patterns

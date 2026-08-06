@@ -36,6 +36,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Sliding Window | Java | Medium | 2026-08-03 | [Solution](solutions/sliding-window/0003-longest-substring-without-repeating-characters/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Sliding Window | Java | Medium | 2026-08-03 | [Solution](solutions/sliding-window/0209-minimum-size-subarray-sum/) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Sliding Window | Java | Medium | 2026-08-04 | [Solution](solutions/sliding-window/0424-longest-repeating-character-replacement/) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Intervals | Java | Medium | 2026-08-05 | [Solution](solutions/intervals/0056-merge-intervals/) |
 <!-- INDEX:END -->
 
 ## Patterns

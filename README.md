@@ -38,6 +38,7 @@
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Sliding Window | Java | Medium | 2026-08-04 | [Solution](solutions/sliding-window/0424-longest-repeating-character-replacement/) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Intervals | Java | Medium | 2026-08-05 | [Solution](solutions/intervals/0056-merge-intervals/) |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | Intervals | Java | Easy | 2026-08-05 | [Solution](solutions/intervals/0228-summary-ranges/) |
+| 257 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Intervals | Java | Medium | 2026-08-11 | [Solution](solutions/intervals/0257-insert-interval/) |
 <!-- INDEX:END -->
 
 ## Patterns

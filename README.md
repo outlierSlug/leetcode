@@ -39,6 +39,7 @@
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Intervals | Java | Medium | 2026-08-05 | [Solution](solutions/intervals/0056-merge-intervals/) |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | Intervals | Java | Easy | 2026-08-05 | [Solution](solutions/intervals/0228-summary-ranges/) |
 | 257 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Intervals | Java | Medium | 2026-08-11 | [Solution](solutions/intervals/0257-insert-interval/) |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | Intervals | Java | Medium | 2026-08-12 | [Solution](solutions/intervals/0452-minimum-number-of-arrows-to-burst-balloons/) |
 <!-- INDEX:END -->
 
 ## Patterns

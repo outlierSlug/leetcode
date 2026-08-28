@@ -1,7 +1,7 @@
-import java.util.Deque;
 import java.util.ArrayDeque;
-import java.util.Map;
+import java.util.Deque;
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
     public boolean isValid(String s) {

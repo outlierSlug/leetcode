@@ -42,6 +42,7 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | Intervals | Java | Medium | 2026-08-12 | [Solution](solutions/intervals/0452-minimum-number-of-arrows-to-burst-balloons/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Stack | Java | Easy | 2026-08-27 | [Solution](solutions/stack/0020-valid-parentheses/) |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | Stack | Java | Medium | 2026-08-27 | [Solution](solutions/stack/0071-simplify-path/) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | Java | Medium | 2026-08-28 | [Solution](solutions/stack/0155-min-stack/) |
 <!-- INDEX:END -->
 
 ## Patterns

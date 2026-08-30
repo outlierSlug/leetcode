@@ -44,6 +44,7 @@
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | Stack | Java | Medium | 2026-08-27 | [Solution](solutions/stack/0071-simplify-path/) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Stack | Java | Medium | 2026-08-28 | [Solution](solutions/stack/0150-evaluate-reverse-polish-notation/) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | Java | Medium | 2026-08-28 | [Solution](solutions/stack/0155-min-stack/) |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | Stack | Java | Hard | 2026-08-29 | [Solution](solutions/stack/0224-basic-calculator/) |
 <!-- INDEX:END -->
 
 ## Patterns

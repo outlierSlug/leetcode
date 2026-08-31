@@ -24,7 +24,7 @@ from pathlib import Path
 PATTERNS = [
     "arrays-hashing", "two-pointers", "sliding-window", "stack",
     "binary-search", "linked-list", "trees", "heap-priority-queue",
-    "backtracking", "graphs", "math", "dp-1d", "dp-2d", "greedy",
+    "backtracking", "graphs", "math", "matrix", "dp-1d", "dp-2d", "greedy",
     "intervals", "trie", "union-find", "bit-manipulation",
 ]
 

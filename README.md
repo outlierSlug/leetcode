@@ -46,6 +46,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Stack | Java | Medium | 2026-08-28 | [Solution](solutions/stack/0155-min-stack/) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | Stack | Java | Hard | 2026-08-29 | [Solution](solutions/stack/0224-basic-calculator/) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Matrix | Java | Medium | 2026-08-30 | [Solution](solutions/matrix/0036-valid-sudoku/) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Matrix | Java | Medium | 2026-08-30 | [Solution](solutions/matrix/0054-spiral-matrix/) |
 <!-- INDEX:END -->
 
 ## Patterns

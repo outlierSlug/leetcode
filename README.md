@@ -49,6 +49,7 @@
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Matrix | Java | Medium | 2026-08-30 | [Solution](solutions/matrix/0054-spiral-matrix/) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Matrix | Java | Medium | 2026-08-31 | [Solution](solutions/matrix/0048-rotate-image/) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Matrix | Java | Medium | 2026-08-31 | [Solution](solutions/matrix/0073-set-matrix-zeroes/) |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/description/) | Matrix | Java | Medium | 2026-09-01 | [Solution](solutions/matrix/0289-game-of-life/) |
 <!-- INDEX:END -->
 
 ## Patterns

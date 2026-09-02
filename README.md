@@ -51,6 +51,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Matrix | Java | Medium | 2026-08-31 | [Solution](solutions/matrix/0073-set-matrix-zeroes/) |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/description/) | Matrix | Java | Medium | 2026-09-01 | [Solution](solutions/matrix/0289-game-of-life/) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Binary Search | Java | Easy | 2026-09-02 | [Solution](solutions/binary-search/0035-search-insert-position/) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | Java | Medium | 2026-09-02 | [Solution](solutions/binary-search/0074-search-a-2d-matrix/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Binary Search | Java | Easy | 2026-09-02 | [Solution](solutions/binary-search/0704-binary-search/) |
 <!-- INDEX:END -->
 

@@ -54,6 +54,8 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | Binary Search | Java | Medium | 2026-09-02 | [Solution](solutions/binary-search/0074-search-a-2d-matrix/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | Binary Search | Java | Medium | 2026-09-02 | [Solution](solutions/binary-search/0162-find-peak-element/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Binary Search | Java | Easy | 2026-09-02 | [Solution](solutions/binary-search/0704-binary-search/) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-03 | [Solution](solutions/binary-search/0033-search-in-rotated-sorted-array/) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-03 | [Solution](solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/) |
 <!-- INDEX:END -->
 
 ## Patterns

@@ -56,6 +56,7 @@
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | Binary Search | Java | Easy | 2026-09-02 | [Solution](solutions/binary-search/0704-binary-search/) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-03 | [Solution](solutions/binary-search/0033-search-in-rotated-sorted-array/) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-03 | [Solution](solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-04 | [Solution](solutions/binary-search/0034-find-first-and-last-position-of-element-in-sorted-array/) |
 <!-- INDEX:END -->
 
 ## Patterns

@@ -58,6 +58,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-03 | [Solution](solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Binary Search | Java | Hard | 2026-09-04 | [Solution](solutions/binary-search/0004-median-of-two-sorted-arrays/) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary Search | Java | Medium | 2026-09-04 | [Solution](solutions/binary-search/0034-find-first-and-last-position-of-element-in-sorted-array/) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Heap Priority Queue | Java | Medium | 2026-09-05 | [Solution](solutions/heap-priority-queue/0215-kth-largest-element-in-an-array/) |
 <!-- INDEX:END -->
 
 ## Patterns

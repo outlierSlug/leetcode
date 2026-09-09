@@ -62,6 +62,7 @@
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Heap Priority Queue | Java | Hard | 2026-09-07 | [Solution](solutions/heap-priority-queue/0295-find-median-from-data-stream/) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | Heap Priority Queue | Java | Medium | 2026-09-07 | [Solution](solutions/heap-priority-queue/0373-find-k-pairs-with-smallest-sums/) |
 | 502 | [IPO](https://leetcode.com/problems/ipo/description/) | Heap Priority Queue | Java | Hard | 2026-09-07 | [Solution](solutions/heap-priority-queue/0502-ipo/) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Backtracking | Java | Medium | 2026-09-08 | [Solution](solutions/backtracking/0017-letter-combinations-of-a-phone-number/) |
 <!-- INDEX:END -->
 
 ## Patterns

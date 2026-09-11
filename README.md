@@ -65,6 +65,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Backtracking | Java | Medium | 2026-09-08 | [Solution](solutions/backtracking/0017-letter-combinations-of-a-phone-number/) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | Backtracking | Java | Medium | 2026-09-09 | [Solution](solutions/backtracking/0046-permutations/) |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/description/) | Backtracking | Java | Medium | 2026-09-09 | [Solution](solutions/backtracking/0077-combinations/) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Backtracking | Java | Medium | 2026-09-10 | [Solution](solutions/backtracking/0039-combination-sum/) |
 <!-- INDEX:END -->
 
 ## Patterns

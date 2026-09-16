@@ -68,6 +68,7 @@
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | Backtracking | Java | Medium | 2026-09-10 | [Solution](solutions/backtracking/0039-combination-sum/) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | Backtracking | Java | Hard | 2026-09-11 | [Solution](solutions/backtracking/0051-n-queens/) |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Backtracking | Java | Hard | 2026-09-11 | [Solution](solutions/backtracking/0052-n-queens-ii/) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Backtracking | Java | Medium | 2026-09-15 | [Solution](solutions/backtracking/0022-generate-parentheses/) |
 <!-- INDEX:END -->
 
 ## Patterns

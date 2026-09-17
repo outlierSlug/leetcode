@@ -69,6 +69,7 @@
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | Backtracking | Java | Hard | 2026-09-11 | [Solution](solutions/backtracking/0051-n-queens/) |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Backtracking | Java | Hard | 2026-09-11 | [Solution](solutions/backtracking/0052-n-queens-ii/) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Backtracking | Java | Medium | 2026-09-15 | [Solution](solutions/backtracking/0022-generate-parentheses/) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Backtracking | Java | Medium | 2026-09-16 | [Solution](solutions/backtracking/0079-word-search/) |
 <!-- INDEX:END -->
 
 ## Patterns

@@ -70,6 +70,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Backtracking | Java | Hard | 2026-09-11 | [Solution](solutions/backtracking/0052-n-queens-ii/) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Backtracking | Java | Medium | 2026-09-15 | [Solution](solutions/backtracking/0022-generate-parentheses/) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Backtracking | Java | Medium | 2026-09-16 | [Solution](solutions/backtracking/0079-word-search/) |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | Graphs | Java | Medium | 2026-09-18 | [Solution](solutions/graphs/0130-surrounded-regions/) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Graphs | Java | Medium | 2026-09-18 | [Solution](solutions/graphs/0200-number-of-islands/) |
 <!-- INDEX:END -->
 

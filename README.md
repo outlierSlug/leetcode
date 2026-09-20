@@ -74,6 +74,7 @@
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Graphs | Java | Medium | 2026-09-18 | [Solution](solutions/graphs/0200-number-of-islands/) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0133-clone-graph/) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0207-course-schedule/) |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0210-course-schedule-ii/) |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0399-evaluate-division/) |
 <!-- INDEX:END -->
 

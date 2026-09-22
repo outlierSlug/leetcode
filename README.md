@@ -77,6 +77,7 @@
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0210-course-schedule-ii/) |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | Graphs | Java | Medium | 2026-09-19 | [Solution](solutions/graphs/0399-evaluate-division/) |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | Graphs | Java | Medium | 2026-09-21 | [Solution](solutions/graphs/0909-snakes-and-ladders/) |
+| 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
 <!-- INDEX:END -->
 
 ## Patterns

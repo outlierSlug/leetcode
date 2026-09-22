@@ -42,6 +42,8 @@ METADATA_RE = re.compile(
 # hyphen-to-Title-Case conversion -- add entries as you need to override it.
 PATTERN_DISPLAY = {
     "arrays-hashing": "Hashing",
+    "dp-1d": "1D DP",
+    "dp-2d": "Multidimensional DP",
 }
 
 

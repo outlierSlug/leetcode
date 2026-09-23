@@ -81,6 +81,7 @@
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | Graphs | Java | Hard | 2026-09-22 | [Solution](solutions/graphs/0127-word-ladder/) |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0139-word-break/) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0198-house-robber/) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0322-coin-change/) |
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
 <!-- INDEX:END -->
 

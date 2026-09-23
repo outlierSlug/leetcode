@@ -120,7 +120,7 @@ Summary:
 
 | Time | Space |
 |---|---|
-| `O()`| `O()` |
+| $O()$ | $O()$ |
 
 ## Notes
 

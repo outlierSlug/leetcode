@@ -84,6 +84,7 @@
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0300-longest-increasing-subsequence/) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0322-coin-change/) |
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0049-group-anagrams/) |
 <!-- INDEX:END -->
 
 ## Patterns

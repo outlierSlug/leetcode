@@ -79,6 +79,7 @@
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | Graphs | Java | Medium | 2026-09-21 | [Solution](solutions/graphs/0909-snakes-and-ladders/) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 1D DP | Java | Easy | 2026-09-22 | [Solution](solutions/dp-1d/0070-climbing-stairs/) |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | Graphs | Java | Hard | 2026-09-22 | [Solution](solutions/graphs/0127-word-ladder/) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0139-word-break/) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0198-house-robber/) |
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
 <!-- INDEX:END -->

@@ -85,6 +85,7 @@
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0322-coin-change/) |
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0049-group-anagrams/) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Backtracking | Java | Medium | 2026-09-23 | [Solution](solutions/backtracking/0078-subsets/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Greedy | Java | Easy | 2026-09-23 | [Solution](solutions/greedy/0121-best-time-to-buy-and-sell-stock/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0238-product-of-array-except-self/) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Heap Priority Queue | Java | Medium | 2026-09-23 | [Solution](solutions/heap-priority-queue/0347-top-k-frequent-elements/) |

@@ -85,6 +85,7 @@
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | 1D DP | Java | Medium | 2026-09-22 | [Solution](solutions/dp-1d/0322-coin-change/) |
 | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | Graphs | Java | Medium | 2026-09-22 | [Solution](solutions/graphs/0433-minimum-genetic-mutation/) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0049-group-anagrams/) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Greedy | Java | Easy | 2026-09-23 | [Solution](solutions/greedy/0121-best-time-to-buy-and-sell-stock/) |
 <!-- INDEX:END -->
 
 ## Patterns

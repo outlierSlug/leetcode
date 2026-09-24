@@ -87,6 +87,7 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0049-group-anagrams/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Greedy | Java | Easy | 2026-09-23 | [Solution](solutions/greedy/0121-best-time-to-buy-and-sell-stock/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0238-product-of-array-except-self/) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Heap Priority Queue | Java | Medium | 2026-09-23 | [Solution](solutions/heap-priority-queue/0347-top-k-frequent-elements/) |
 <!-- INDEX:END -->
 
 ## Patterns

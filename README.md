@@ -90,6 +90,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Hashing | Java | Medium | 2026-09-23 | [Solution](solutions/arrays-hashing/0238-product-of-array-except-self/) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Heap Priority Queue | Java | Medium | 2026-09-23 | [Solution](solutions/heap-priority-queue/0347-top-k-frequent-elements/) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Hashing | Java | Medium | 2026-09-24 | [Solution](solutions/arrays-hashing/0128-longest-consecutive-sequence/) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Linked List | Java | Easy | 2026-09-24 | [Solution](solutions/linked-list/0202-happy-number/) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Hashing | Java | Easy | 2026-09-24 | [Solution](solutions/arrays-hashing/0219-contains-duplicate-ii/) |
 <!-- INDEX:END -->
 

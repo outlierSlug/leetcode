@@ -95,6 +95,7 @@
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Hashing | Java | Easy | 2026-09-24 | [Solution](solutions/arrays-hashing/0219-contains-duplicate-ii/) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0101-symmetric-tree/) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0112-path-sum/) |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | Trees | Java | Medium | 2026-09-26 | [Solution](solutions/trees/0129-sum-root-to-leaf-numbers/) |
 <!-- INDEX:END -->
 
 ## Patterns

@@ -93,6 +93,7 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | Hashing | Java | Medium | 2026-09-24 | [Solution](solutions/arrays-hashing/0128-longest-consecutive-sequence/) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Linked List | Java | Easy | 2026-09-24 | [Solution](solutions/linked-list/0202-happy-number/) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Hashing | Java | Easy | 2026-09-24 | [Solution](solutions/arrays-hashing/0219-contains-duplicate-ii/) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0101-symmetric-tree/) |
 <!-- INDEX:END -->
 
 ## Patterns

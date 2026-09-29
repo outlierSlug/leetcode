@@ -96,6 +96,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0101-symmetric-tree/) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0112-path-sum/) |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | Trees | Java | Medium | 2026-09-26 | [Solution](solutions/trees/0129-sum-root-to-leaf-numbers/) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Trees | Java | Medium | 2026-09-28 | [Solution](solutions/trees/0236-lowest-common-ancestor-of-a-binary-tree/) |
 <!-- INDEX:END -->
 
 ## Patterns

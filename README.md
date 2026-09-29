@@ -97,6 +97,7 @@
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | Trees | Java | Easy | 2026-09-26 | [Solution](solutions/trees/0112-path-sum/) |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | Trees | Java | Medium | 2026-09-26 | [Solution](solutions/trees/0129-sum-root-to-leaf-numbers/) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Trees | Java | Medium | 2026-09-28 | [Solution](solutions/trees/0236-lowest-common-ancestor-of-a-binary-tree/) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0098-validate-binary-search-tree/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0102-binary-tree-level-order-traversal/) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0103-binary-tree-zigzag-level-order-traversal/) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0199-binary-tree-right-side-view/) |

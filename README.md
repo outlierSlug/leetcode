@@ -99,6 +99,7 @@
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Trees | Java | Medium | 2026-09-28 | [Solution](solutions/trees/0236-lowest-common-ancestor-of-a-binary-tree/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0102-binary-tree-level-order-traversal/) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0199-binary-tree-right-side-view/) |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0637-average-of-levels-in-binary-tree/) |
 <!-- INDEX:END -->
 
 ## Patterns

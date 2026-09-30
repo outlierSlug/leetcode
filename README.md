@@ -102,6 +102,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0103-binary-tree-zigzag-level-order-traversal/) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0173-binary-search-tree-iterator/) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0199-binary-tree-right-side-view/) |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0222-count-complete-tree-nodes/) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0230-kth-smallest-element-in-a-bst/) |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Trees | Java | Easy | 2026-09-29 | [Solution](solutions/trees/0530-minimum-absolute-difference-in-bst/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0637-average-of-levels-in-binary-tree/) |

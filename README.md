@@ -100,6 +100,7 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0098-validate-binary-search-tree/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0102-binary-tree-level-order-traversal/) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0103-binary-tree-zigzag-level-order-traversal/) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0114-flatten-binary-tree-to-linked-list/) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0173-binary-search-tree-iterator/) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0199-binary-tree-right-side-view/) |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0222-count-complete-tree-nodes/) |

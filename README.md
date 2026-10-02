@@ -107,6 +107,8 @@
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0230-kth-smallest-element-in-a-bst/) |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Trees | Java | Easy | 2026-09-29 | [Solution](solutions/trees/0530-minimum-absolute-difference-in-bst/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Trees | Java | Medium | 2026-09-29 | [Solution](solutions/trees/0637-average-of-levels-in-binary-tree/) |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Hashing | Java | Medium | 2026-10-01 | [Solution](solutions/arrays-hashing/0560-subarray-sum-equals-k/) |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Binary Search | Java | Medium | 2026-10-01 | [Solution](solutions/binary-search/0875-koko-eating-bananas/) |
 <!-- INDEX:END -->
 
 ## Patterns

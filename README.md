@@ -110,6 +110,7 @@
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Hashing | Java | Medium | 2026-10-01 | [Solution](solutions/arrays-hashing/0560-subarray-sum-equals-k/) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Binary Search | Java | Medium | 2026-10-01 | [Solution](solutions/binary-search/0875-koko-eating-bananas/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | Two Pointers | Java, Python | Medium | 2026-10-02 | [Solution](solutions/two-pointers/0189-rotate-array/) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Bit Manipulation | Java, Python | Easy | 2026-10-03 | [Solution](solutions/bit-manipulation/0136-single-number/) |
 <!-- INDEX:END -->
 
 ## Patterns

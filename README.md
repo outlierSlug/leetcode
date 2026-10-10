@@ -114,6 +114,7 @@
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/description/) | Bit Manipulation | Java | Medium | 2026-10-03 | [Solution](solutions/bit-manipulation/0137-single-number-ii/) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/) | Bit Manipulation | Java | Medium | 2026-10-04 | [Solution](solutions/bit-manipulation/2571-minimum-operations-to-reduce-an-integer-to-0/) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 1D DP | Java | Medium | 2026-10-06 | [Solution](solutions/dp-1d/0053-maximum-subarray/) |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Bit Manipulation | Java | Easy | 2026-10-10 | [Solution](solutions/bit-manipulation/0338-counting-bits/) |
 <!-- INDEX:END -->
 
 ## Patterns

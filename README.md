@@ -116,6 +116,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 1D DP | Java | Medium | 2026-10-06 | [Solution](solutions/dp-1d/0053-maximum-subarray/) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | Bit Manipulation | Java | Easy | 2026-10-10 | [Solution](solutions/bit-manipulation/0190-reverse-bits/) |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Bit Manipulation | Java | Easy | 2026-10-10 | [Solution](solutions/bit-manipulation/0338-counting-bits/) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Two Pointers | Java | Medium | 2026-10-11 | [Solution](solutions/two-pointers/0031-next-permutation/) |
 <!-- INDEX:END -->
 
 ## Patterns

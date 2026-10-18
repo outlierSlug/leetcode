@@ -120,6 +120,7 @@
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0117-populating-next-right-pointers-in-each-node-ii/) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | Trees | Java | Hard | 2026-10-18 | [Solution](solutions/trees/0124-binary-tree-maximum-path-sum/) |
 <!-- INDEX:END -->
 
 ## Patterns

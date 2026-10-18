@@ -118,6 +118,7 @@
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Bit Manipulation | Java | Easy | 2026-10-10 | [Solution](solutions/bit-manipulation/0338-counting-bits/) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Two Pointers | Java | Medium | 2026-10-11 | [Solution](solutions/two-pointers/0031-next-permutation/) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0117-populating-next-right-pointers-in-each-node-ii/) |
 <!-- INDEX:END -->
 

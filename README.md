@@ -122,6 +122,7 @@
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | Trees | Java | Medium | 2026-10-17 | [Solution](solutions/trees/0117-populating-next-right-pointers-in-each-node-ii/) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | Trees | Java | Hard | 2026-10-18 | [Solution](solutions/trees/0124-binary-tree-maximum-path-sum/) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Linked List | Java | Medium | 2026-10-22 | [Solution](solutions/linked-list/0019-remove-nth-node-from-end-of-list/) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0061-rotate-list/) |
 <!-- INDEX:END -->
 
 ## Patterns

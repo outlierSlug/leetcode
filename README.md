@@ -123,6 +123,7 @@
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | Trees | Java | Hard | 2026-10-18 | [Solution](solutions/trees/0124-binary-tree-maximum-path-sum/) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Linked List | Java | Medium | 2026-10-22 | [Solution](solutions/linked-list/0019-remove-nth-node-from-end-of-list/) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0061-rotate-list/) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0086-partition-list/) |
 <!-- INDEX:END -->
 
 ## Patterns

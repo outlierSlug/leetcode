@@ -124,6 +124,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Linked List | Java | Medium | 2026-10-22 | [Solution](solutions/linked-list/0019-remove-nth-node-from-end-of-list/) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0061-rotate-list/) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0086-partition-list/) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | Linked List | Java | Medium | 2026-10-27 | [Solution](solutions/linked-list/0082-remove-duplicates-from-sorted-list-ii/) |
 <!-- INDEX:END -->
 
 ## Patterns

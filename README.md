@@ -125,6 +125,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0061-rotate-list/) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | Linked List | Java | Medium | 2026-10-26 | [Solution](solutions/linked-list/0086-partition-list/) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | Linked List | Java | Medium | 2026-10-27 | [Solution](solutions/linked-list/0082-remove-duplicates-from-sorted-list-ii/) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | Linked List | Java | Hard | 2026-10-28 | [Solution](solutions/linked-list/0025-reverse-nodes-in-k-group/) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Linked List | Java | Medium | 2026-10-28 | [Solution](solutions/linked-list/0092-reverse-linked-list-ii/) |
 <!-- INDEX:END -->
 

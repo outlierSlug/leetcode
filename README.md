@@ -127,6 +127,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | Linked List | Java | Medium | 2026-10-27 | [Solution](solutions/linked-list/0082-remove-duplicates-from-sorted-list-ii/) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | Linked List | Java | Hard | 2026-10-28 | [Solution](solutions/linked-list/0025-reverse-nodes-in-k-group/) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Linked List | Java | Medium | 2026-10-28 | [Solution](solutions/linked-list/0092-reverse-linked-list-ii/) |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Linked List | Java | Medium | 2026-10-28 | [Solution](solutions/linked-list/0138-copy-list-with-random-pointer/) |
 <!-- INDEX:END -->
 
 ## Patterns

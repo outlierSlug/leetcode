@@ -130,6 +130,7 @@
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Linked List | Java | Medium | 2026-10-28 | [Solution](solutions/linked-list/0138-copy-list-with-random-pointer/) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Linked List | Java | Medium | 2026-10-29 | [Solution](solutions/linked-list/0146-lru-cache/) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Linked List | Java | Hard | 2026-10-31 | [Solution](solutions/linked-list/0023-merge-k-sorted-lists/) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Sliding Window | Java | Hard | 2026-10-31 | [Solution](solutions/sliding-window/0076-minimum-window-substring/) |
 <!-- INDEX:END -->
 
 ## Patterns

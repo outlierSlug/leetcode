@@ -37,6 +37,7 @@ The heap holds at most `k` nodes, and each of the `N` nodes is pushed and polled
 ## Notes
 - `Integer.compare(a.val, b.val)` avoids potential overflow from `a.val - b.val`
 - **Divide & Conquer Solution**: A recursive helper `mergeRange(lists, lo, hi)` returns `lists[lo]` when `lo == hi`, otherwise splits at `mid`, recursively merges each half into one list, and combines the two results with the two-list merge from [21](../0021-merge-two-sorted-lists/). There are $\log k$ levels, and every node takes part in exactly one merge per level, giving $O(N \log k)$ time and $O(\log k)$ recursion stack. 
+
 ```java
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
@@ -78,4 +79,5 @@ class Solution {
     }
 }
 ```
+
 - An iterative bottom-up version, merging pairs at gaps 1, 2, 4, and so on, uses $O(1)$ extra space.

@@ -1,14 +1,14 @@
 <!--
 number: 0208
-title: Implement Trie
+title: Implement Trie (Prefix Tree)
 pattern: trie
 difficulty: Medium
 languages: Java
-slug: implement-trie
+slug: implement-trie-prefix-tree
 last_reviewed: 2026-11-02
 -->
-# Implement Trie
-[Problem Description](https://leetcode.com/problems/implement-trie/description/)
+# Implement Trie (Prefix Tree)
+[Problem Description](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 
 Summary: Implement a trie that supports `insert(word)`, `search(word)` (whether the exact word was inserted), and `startsWith(prefix)` (whether any inserted word begins with the prefix). All inputs consist of lowercase English letters.
 

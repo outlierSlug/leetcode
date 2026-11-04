@@ -133,6 +133,7 @@
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Sliding Window | Java | Hard | 2026-10-31 | [Solution](solutions/sliding-window/0076-minimum-window-substring/) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | Hashing | Java | Hard | 2026-11-01 | [Solution](solutions/arrays-hashing/0042-trapping-rain-water/) |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | Trie | Java | Medium | 2026-11-02 | [Solution](solutions/trie/0208-implement-trie/) |
+| 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Trie | Java | Medium | 2026-11-03 | [Solution](solutions/trie/0211-design-add-and-search-words-data-structure/) |
 <!-- INDEX:END -->
 
 ## Patterns

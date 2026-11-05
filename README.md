@@ -136,6 +136,7 @@
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Trie | Java | Medium | 2026-11-03 | [Solution](solutions/trie/0211-design-add-and-search-words-data-structure/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Two Pointers | Java | Medium | 2026-11-04 | [Solution](solutions/two-pointers/0005-longest-palindromic-substring/) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Hashing | Java | Medium | 2026-11-04 | [Solution](solutions/arrays-hashing/0380-insert-delete-getrandom-o1/) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Multidimensional DP | Java | Medium | 2026-11-05 | [Solution](solutions/dp-2d/0072-edit-distance/) |
 <!-- INDEX:END -->
 
 ## Patterns

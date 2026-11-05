@@ -134,6 +134,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | Hashing | Java | Hard | 2026-11-01 | [Solution](solutions/arrays-hashing/0042-trapping-rain-water/) |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | Trie | Java | Medium | 2026-11-02 | [Solution](solutions/trie/0208-implement-trie/) |
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Trie | Java | Medium | 2026-11-03 | [Solution](solutions/trie/0211-design-add-and-search-words-data-structure/) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Two Pointers | Java | Medium | 2026-11-04 | [Solution](solutions/two-pointers/0005-longest-palindromic-substring/) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Hashing | Java | Medium | 2026-11-04 | [Solution](solutions/arrays-hashing/0380-insert-delete-getrandom-o1/) |
 <!-- INDEX:END -->
 

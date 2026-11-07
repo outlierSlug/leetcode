@@ -138,6 +138,7 @@
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Hashing | Java | Medium | 2026-11-04 | [Solution](solutions/arrays-hashing/0380-insert-delete-getrandom-o1/) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Multidimensional DP | Java | Medium | 2026-11-05 | [Solution](solutions/dp-2d/0072-edit-distance/) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Greedy | Java | Medium | 2026-11-05 | [Solution](solutions/greedy/0134-gas-station/) |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | Trie | Java | Hard | 2026-11-06 | [Solution](solutions/trie/0212-word-search-ii/) |
 <!-- INDEX:END -->
 
 ## Patterns

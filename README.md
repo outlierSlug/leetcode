@@ -141,6 +141,7 @@
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | Trie | Java | Hard | 2026-11-06 | [Solution](solutions/trie/0212-word-search-ii/) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Bit Manipulation | Java | Easy | 2026-11-07 | [Solution](solutions/bit-manipulation/0268-missing-number/) |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | Stack | Java | Medium | 2026-11-08 | [Solution](solutions/stack/0735-asteroid-collision/) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Greedy | Java | Medium | 2026-11-11 | [Solution](solutions/greedy/0122-best-time-to-buy-and-sell-stock-ii/) |
 <!-- INDEX:END -->
 
 ## Patterns
